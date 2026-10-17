@@ -1,0 +1,16 @@
+# Cloud credentials and keys – never commit
+*.json
+*.pem
+*.key
+.env
+credentials*
+
+# Terraform state (for later labs)
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
