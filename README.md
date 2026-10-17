@@ -5,4 +5,4 @@ City St George's, University of London.
 
 | Lab | Topic | Tools |
 | --- | --- | --- |
-| Lab 2 | Nginx on a VM vs in a Docker container | Google Cloud, Docker, Bash |
+| [Lab 2](lab02-virtualisation/) | Nginx on a VM vs in a Docker container | Google Cloud, Docker, Bash |
